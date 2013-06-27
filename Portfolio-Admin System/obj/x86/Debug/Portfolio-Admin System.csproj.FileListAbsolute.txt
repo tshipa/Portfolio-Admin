@@ -1,0 +1,9 @@
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\Portfolio-Admin System.exe
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\Portfolio-Admin System.pdb
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\obj\x86\Debug\ResolveAssemblyReference.cache
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\obj\x86\Debug\Portfolio_Admin_System.Form1.resources
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\obj\x86\Debug\Portfolio_Admin_System.Properties.Resources.resources
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\obj\x86\Debug\GenerateResource.read.1.tlog
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\obj\x86\Debug\GenerateResource.write.1.tlog
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\obj\x86\Debug\Portfolio-Admin System.exe
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\obj\x86\Debug\Portfolio-Admin System.pdb
