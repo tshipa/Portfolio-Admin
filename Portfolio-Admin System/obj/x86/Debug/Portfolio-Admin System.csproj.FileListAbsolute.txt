@@ -7,3 +7,31 @@
 \\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\obj\x86\Debug\GenerateResource.write.1.tlog
 \\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\obj\x86\Debug\Portfolio-Admin System.exe
 \\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\obj\x86\Debug\Portfolio-Admin System.pdb
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\obj\x86\Debug\Portfolio-Admin System.csproj.ResolveComReference.cache
+\\jmb01\redirectedfolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\Portfolio-Admin System.exe.config
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\Ext.Net.dll
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\Ext.Net.Utilities.dll
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\Newtonsoft.Json.dll
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\Transformer.NET.dll
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\Ext.Net.xml
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\Ext.Net.Utilities.xml
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\Newtonsoft.Json.xml
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\Transformer.NET.xml
+\\JMB01\RedirectedFolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\SpreadsheetGear2012.Core.dll
+\\JMB01\RedirectedFolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\SpreadsheetGear2012.Design.dll
+\\JMB01\RedirectedFolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\SpreadsheetGear2012.Drawing.dll
+\\JMB01\RedirectedFolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\SpreadsheetGear2012.Windows.Forms.dll
+\\JMB01\RedirectedFolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\SpreadsheetGear2012.Windows.Forms.Integration.dll
+\\JMB01\RedirectedFolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\SpreadsheetGear2012.Windows.WPF.Design.dll
+\\JMB01\RedirectedFolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\SpreadsheetGear2012.Windows.WPF.dll
+\\JMB01\RedirectedFolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+\\JMB01\RedirectedFolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+\\JMB01\RedirectedFolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\SpreadsheetGear2012.Core.xml
+\\JMB01\RedirectedFolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\SpreadsheetGear2012.Drawing.xml
+\\JMB01\RedirectedFolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\SpreadsheetGear2012.Windows.Forms.xml
+\\JMB01\RedirectedFolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\SpreadsheetGear2012.Windows.WPF.xml
+\\JMB01\RedirectedFolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+\\JMB01\RedirectedFolders\tshipa\My Documents\Visual Studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\obj\x86\Debug\Portfolio-Admin System.exe.licenses
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\data.mdf
+\\jmb01\redirectedfolders\tshipa\my documents\visual studio 2010\Projects\Portfolio-Admin System\Portfolio-Admin System\bin\Debug\data_log.ldf
